@@ -7,9 +7,8 @@ Hi, my name is sepehr mahmoudi.
 A **mid-level** Full-Stack developer.
 
 ## Programming Languages
-```
-HTML
-CSS
-JS
-PHP
-```
+
+- HTML
+- CSS
+- JS
+- PHP
